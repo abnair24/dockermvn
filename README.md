@@ -1,0 +1,1 @@
+Docker Image with all maven dependencies for selenium tests
